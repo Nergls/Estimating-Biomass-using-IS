@@ -24,9 +24,12 @@ Open the R project or R script in RStudio.
 Run the script using the provided example data or load your own dataset following the format of REF_DF.
 
 ## Requirements
-R version ≥ 4.0
+R version = 4.2.2
 
-Required packages: pls, ggplot2, dplyr, tidyr, etc.
+Required packages: "pls","dplyr","reshape2","here","plotrix","ggplot2","gridExtra","spectratrait","reshape","agricolae",
+                      "baseline","spectrolab","caret","tidyverse","readr","tidyr","ggrepel","directlabels","ggpubr",
+                      "animation","pdftools","gghighlight","stringr","gtools","gsheet","GGally","rgdal","magick",
+                      "pavo","mdatools","vip","pdp","magrittr","enpls","crayon", "highlight","seecolor"
 
 ## Data Format
 Your dataset should include:
