@@ -54,7 +54,7 @@ Computes slope and aspect maps from a digital terrain model, generates hillshade
 *Clips flight-line data to the analysis area and generates spatial layers used to compare reflectance and biomass across topographic corrections.*
 
 * 024\_Masked\_Maps\_v-shared.ipynb
-* 
+
 *Applies terrain and vegetation masks to spatial layers for consistency across years and correction outputs. Produces masked maps used in Figures and Appendix materials.*
 
 
